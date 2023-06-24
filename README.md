@@ -14,6 +14,7 @@ TMDB link
 ```
 !searchmovie super mario bros movie
 !searchshow amphibia
+```
 
 # Tools Used
 - [JavaScript](https://www.javascript.com/)
